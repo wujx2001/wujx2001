@@ -2,4 +2,4 @@ This site contains repositories that make efficient training and inference of de
 
 Repositories include
 
--- QwT (Quantization without Tears): description to be added
+-- QwT (Quantization without Tears): brief description? developed by who?
